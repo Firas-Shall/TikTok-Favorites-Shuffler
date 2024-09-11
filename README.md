@@ -14,30 +14,3 @@ Input File: The script asks you to provide the path to the text file containing 
 
 User Interaction: After providing the file path, type C to shuffle the links and open one randomly in your browser.
 
-Getting Started
-
-Prerequisites
-
-Python 3.x installed on your computer.
-
-Setup
-
-Clone the Repository:
-
-git clone https://github.com/Firas-Shall/TikTok-Favorites-Shuffler.git
-
-Navigate to the Project Directory:
-
-cd TikTok-Favorites-Shuffler
-
-Run the Script:
-
-python TikTok Favorites Shuffler.py
-
-Provide the File Path:
-
-When prompted, enter the full path to your text file containing the video links.
-
-Type 'C' to Open a Random Video:
-
-Enter C in the command line to shuffle the list and open a random video link in your browser.
