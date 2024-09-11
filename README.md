@@ -9,6 +9,7 @@ Randomly selects from your favorites text file and opens a video link in your de
 Simple and interactive command-line interface.
 
 How It Works
+
 Input File: The script asks you to provide the path to the text file containing your favorite video links. 
 
 User Interaction: After providing the file path, type C to shuffle the links and open one randomly in your browser.
