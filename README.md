@@ -1,6 +1,6 @@
 TikTok favorites shuffler
 
-I've always heard people wishing they can shuffle their favorites, so they can watch the videos they added years ago, because we all have thousands of videos in this tab. This Python script allows you to do just that. It reads from a text file you get from downloading your data from tiktok(profile->settings->account->download your data->select data->custom->Activity)(use Favorite Videos.txt) and opens one at random when you provide input.
+I've always heard people wishing they can shuffle their favorites, so they can watch the videos they added years ago, because we all have thousands of videos in this tab. This very simple Python script allows you to do just that. It reads from a text file you get from downloading your data from tiktok(profile->settings->account->download your data->select data->custom->Activity)(use Favorite Videos.txt) and opens one at random when you provide input.
 
 Features
 
