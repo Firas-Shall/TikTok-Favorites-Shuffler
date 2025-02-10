@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <title>TikTok Favorites Shuffler</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title"><a href="https://tiktokshuffler.netlify.app/" target="_blank">TikTok Favorites Shuffler</a></h1>
+        <div class="content">
+            <label class="custom-file-upload"><input type="file" id="fileInput" accept=".txt">Choose File</label>
+            <button onclick="shuffleLinks()">Shuffle Links</button>
+            <button id="randomVideoButton" onclick="openRandomVideo()">Go to a Random Video</button>
+            
+        </div>
+        <h2>Scroll down for Tutorial!</h2>
+        <ul id="shuffledLinks"></ul>
+        <h2>Tutorial:</h2>
+        <img src="Screenshot (41).png" />
+        <img src="Screenshot (42).png" />
+        <img src="Screenshot (43).png" />
+        <div class="tutorial">
+            <h2>1-Click "Choose File" and upload "Favorite Videos.txt" you got from tiktok data you downloaded</h2>
+            <h2>2-Click "Shuffle Links"</h2>
+            <h2>3-Click "Go to a random video"</h2>
+            <h2>Enjoy! :)</h2>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
